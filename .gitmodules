@@ -1,9 +1,9 @@
 [submodule "JavaGuide"]
-	path = JavaGuide
-	url = https://github.com.cnpmjs.org/Snailclimb/JavaGuide.git
-[submodule "cs-notes"]
-	path = cs-notes
-	url = https://github.com.cnpmjs.org/CyC2018/cs-notes.git
-[submodule "advanced-java"]
-	path = advanced-java
+	path = /advanced-java
 	url = https://github.com.cnpmjs.org/doocs/advanced-java.git
+[submodule "advanced-java"]
+	path = /advanced-java
+	url = https://github.com.cnpmjs.org/doocs/advanced-java.git
+[submodule "cs-notes"]
+	path = /cs-notes
+	url = https://github.com.cnpmjs.org/CyC2018/cs-notes.git
